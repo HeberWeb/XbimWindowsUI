@@ -161,7 +161,7 @@
       <HintPath>..\packages\Xbim.Ifc4.5.1.323\lib\net47\Xbim.Ifc4.dll</HintPath>
     </Reference>
     <Reference Include="Xbim.IO.Esent, Version=5.1.0.0, Culture=neutral, PublicKeyToken=11e3655e576ec5a9, processorArchitecture=MSIL">
-      <HintPath>..\packages\Xbim.IO.Esent.5.1.322-develop\lib\net47\Xbim.IO.Esent.dll</HintPath>
+      <HintPath>..\packages\Xbim.IO.Esent.5.1.323\lib\net47\Xbim.IO.Esent.dll</HintPath>
     </Reference>
     <Reference Include="Xbim.IO.MemoryModel, Version=5.1.0.0, Culture=neutral, PublicKeyToken=11e3655e576ec5a9, processorArchitecture=MSIL">
       <HintPath>..\packages\Xbim.IO.MemoryModel.5.1.323\lib\net47\Xbim.IO.MemoryModel.dll</HintPath>
